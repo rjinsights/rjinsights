@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajasekar Nonburaj
 - 👀 I’m interested in Business Intelligence, Analytics, Big Data & Cloud
-- 🌱 I’m currently learning Azure / AWS & GCP 
+- 🌱 I’m currently learning Azure / AWS / GCP 
 - 💞️ I’m looking to collaborate on BI & Analytics Technologies
 - 📫 Reach me at rajasekarn@outlook.com / https://holadata.in
 
