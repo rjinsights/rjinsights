@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rajasekar Nonburaj
-- 👀 I’m interested in BI & Analytics , DevOps, Cloud and AI & ML Technologies
-- 💞️ I’m looking to collaborate on the above Technologies
+- 👀 I’m interested in AI/ML, BI & Analytics, Cloud & DevOps
 - 📫 Reach me at rajasekarn@outlook.com / https://rjinsights.com
 
 <!---
