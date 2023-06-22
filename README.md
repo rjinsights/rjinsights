@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rajasekar Nonburaj
-- 👀 I’m interested in Business Intelligence, Analytics, Big Data & Cloud
-- 🌱 I’m currently learning Azure / AWS / GCP 
-- 💞️ I’m looking to collaborate on BI & Analytics Technologies
+- 👀 I’m interested in BI & Analytics , DevOps, Cloud and AI & ML Technologies
+- 💞️ I’m looking to collaborate on the above Technologies
 - 📫 Reach me at rajasekarn@outlook.com / https://rjinsights.com
 
 <!---
