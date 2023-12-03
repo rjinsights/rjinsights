@@ -1,6 +1,6 @@
 Hi There! 👋 <h1>🚀 About Me</h1>
 
-Greetings and welcome to my LinkedIn profile.
+Greetings and welcome to my Github profile.
 
 I'm Rajasekar Nonburaj, currently serving as the Business Head for BI & Analytics at Trivecta Digital. In my role, I lead client projects in data analytics, AI/ML, and data engineering. Over the course of my career spanning more than two decades, I have accumulated extensive expertise as a Subject Matter Expert (SME) in the field of Data and Analytics.
 
