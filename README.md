@@ -2,7 +2,7 @@ Hi There! 👋 <h1>🚀 About Me</h1>
 
 Greetings and welcome to my GitHub profile.
 
-As the Business Head for BI & Analytics at Trivecta Digital, I spearhead client projects in data analytics, AI/ML, and data engineering, leveraging over two decades of expertise in the field. Renowned as a Subject Matter Expert in Data and Analytics, my focus lies in Solution Architecture, overseeing large-scale global BI deployments and establishing Centers of Excellence.
+As the Business Head for BI & Analytics at Trivecta Digital, I spearhead client projects in Data Analytics, AI/ML, and Data Engineering, leveraging over two decades of expertise in the field. Renowned as a Subject Matter Expert in Data and Analytics, my focus lies in Solution Architecture, overseeing large-scale global BI deployments and establishing Centers of Excellence.
 
 My global impact is evident through robust client relationships across the US, EMEA, and APAC, leading projects in countries like the US, Australia, UAE, and Mexico. Collaborating with BI and analytics vendors such as SAP, Infor, Birst, and Sisense, I've significantly contributed to their development, training, and support efforts.
 
